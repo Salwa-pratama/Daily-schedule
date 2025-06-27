@@ -3,7 +3,8 @@ Jadwal Kegiatan harian saya sebagai mahasiswa teknik informatika
 
 Catatan : 
 jika ada matakuliah yang libur gunakan waktu itu untuk belajar 
-bahasa inggris minimal 90 menit
+bahasa inggris minimal 90 menit.
+
 Self Reward Harian adalah :
 > Main Game selama 2 jam setelah belajar
 > Waktu bermain game di jam 19:00 - 21:00
