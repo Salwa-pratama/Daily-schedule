@@ -37,7 +37,8 @@ Self Reward Harian adalah :
 
 -> Sabtu <- 
 > Kuliah libur
-> Produksi 1 video Youtube
+> Belajar editing video sebelum memproduksi video 
+  Agar bisa memproduksi video dengan kualitas yang bagus.
 
 -> Minggu <-
 > Full santai terserah lu mau ngapain
