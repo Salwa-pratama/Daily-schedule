@@ -19,8 +19,6 @@ Self Reward Harian adalah :
 
 Catatan Harian hari senin:
 
-matematikanya belajar logic reac, ngikutin tutorial bikin tic tac toe dari website resminya langsung
-
 
 
 -> Selasa <-
@@ -30,12 +28,6 @@ matematikanya belajar logic reac, ngikutin tutorial bikin tic tac toe dari websi
 
 Catatan Hari selasa : 
 
-Hari ini gwa banyak belajar react tentang props useState, dan komponen, dan menyelesaikan game tic tac toe yang diberikan oleh website resmi dari react
-yang jadi apresiasi untuk dirikusendiri bisanya aku ngikuti tutorial dari video tapi kini aku baca langsung dari dokumentasinya, keren bro lo melawan rasa bosan 
-yang sesungguhnya hah jos jis, 
-
-dan malem hari aku belajar koding array javascript di codewars gila soalnya susah bingit anjrit
-
 
 -> Rabu <-
 > 08:45 - 12:10 (Kuliah)
@@ -43,9 +35,6 @@ dan malem hari aku belajar koding array javascript di codewars gila soalnya susa
 > Tidur jam 10 dan satu jam sebelum tidur harus off hp maupun laptop
 
 Catatan Harian Hari Rabu : 
-
-aku kemaren berhasil menyeelesaikan pr yang diberikan dari rect web resmi nya secara langsung ya guys, walapun kebanyakan diselesaikan ari AI hehe
-tap setidaknya aku mengerti konsepnya
 
 
 
@@ -56,7 +45,11 @@ tap setidaknya aku mengerti konsepnya
 
 Catatan Harian hari kamis : 
 
-aku ngg belajar matematika kemaren aku membuat projek Doozie ku buat design nya
+hallo gwa itu pemalas akhir akhir ini banyak agenda yang telah gwa tulis itu tidak terlaksanakan karena prasangka buruk dan rasa pengen cepet sukses yang bergejolak
+sehingga merasa masa2 gwa belajar ini gwa abaikan yang dimana ini sangat penteig sekali, aku jadi sering relapse nglakuin coli lagi gara2 ngg banyak kegiatan
+yah gpp bro kalo lagi jatuh jangan jatuh terus ayo mulai lagi menjadi lebih baik setiap harinya, tidak akan ada yang membawa mu menuju kesuksesan kecuali dirimu sendiri, 
+jadi semangat aja bro dengan kesendirianmu gpp jangan merasa goblok, kamu ini udah pinter ko cuma ngg ada aja yang mendengarkan  mu, jadi konsisten lakukan apa yang harus kamu lakukan
+dan kembalilah jadi salwa yang optimis seperti dulu yang selalu ingin mengejar kesuksesan, dan jangan hiraukan perkataan orang lain, teruslah melangkah bro, konsisten lebih penting dari pada perfeksionis atau menginginkan hasil yang besar setiap harinya, ingat hal2 kecil akan menjadi besar jika kamu melakukan secara konsisten karena itu sifat eksponensial
 
 
 -> Jum'at <-
@@ -65,10 +58,6 @@ aku ngg belajar matematika kemaren aku membuat projek Doozie ku buat design nya
 > Tidur jam 10 dan satu jam sebelum tidur harus off hp maupun laptop
 
 Catatan Hari Jum'at : 
-
-
-aku pengen jadi programmer professional dan konten creator seputar dunia teknologi terkini, pelan2 belajar ya semua semua impianku bisa tercapai 
-seblum bapak ibuk ku menginggal nanti dan aku bisa membuat mereka bahaga insyaallah
 
 
 -> Sabtu <- 
@@ -85,4 +74,7 @@ Catatan hari sabtu :
 
 
 catatan hari minggu : 
+
+
+
 
