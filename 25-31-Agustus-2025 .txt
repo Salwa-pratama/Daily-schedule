@@ -19,6 +19,7 @@ Self Reward Harian adalah :
 
 Catatan Harian hari senin:
 
+Bro lo hari ini udah keren banget lu selesaiin doozie lo buat biar bisa send email lempar data dari front end ke back end yang dimana di project lo kuliah lo masih asal2 an yang penting jalan sekarang lo udh mau bener2 ngerti konsep gimana sih software itu berjalan, dan walaupun guru lu chat gpt tpi its okay lah, pelajarin dulu aja javascript sampe ngelontok bro jangan aneh2 dulu kalo minimal sampe bikin 2 project setelah itu coba frame work lain kayak Laravel atau next js, oke sabar keep learning karena di dunia IT itu sangat luas sekali ilmu yang harus kita gali setiap harinya biar kita jadi use fully pas kerja oke bro lesgo intinya hjangan pernah sia2 kan Waktu lo 
 
 -> Selasa <-
 > 08:45 - 12:10 (Kuliah)
