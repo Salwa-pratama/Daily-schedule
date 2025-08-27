@@ -28,6 +28,8 @@ Bro lo hari ini udah keren banget lu selesaiin doozie lo buat biar bisa send ema
 
 Catatan Hari selasa : 
 
+gwa selesai lanjuttin project gwa bikin halaman login yang responsive dan latihan koneksi gb msql menggunakan express, mantep cuy santuy relax satu persatu santai step by step pasti akan kecapai semua keinginan lu bismillah
+
 
 -> Rabu <-
 > 08:45 - 12:10 (Kuliah)
@@ -35,6 +37,9 @@ Catatan Hari selasa :
 > Tidur jam 10 dan satu jam sebelum tidur harus off hp maupun laptop
 
 Catatan Harian Hari Rabu : 
+
+
+gwa belum selesaiin semua fitur login dan register sih bro tpi disini materi soal API gwa makin mantep dan design gwa juga oke banget, mantul bro teruslah melangkah jangan kenal Lelah besok lanjut mrojek lagi 
 
 
 
